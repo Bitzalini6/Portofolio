@@ -1,5 +1,4 @@
 import React from "react";
-import Picture from "../assets/projects/cvpoza.jpg";
 
 const About = () => {
   return (
@@ -18,12 +17,6 @@ const About = () => {
             <p>
               Hello, hope you doing alright !<br></br> I am Gabriel Giurca, nice
               to meet you. Please take a look around.
-              <img
-                className="my-10"
-                src={Picture}
-                alt="img"
-                style={{ height: "500px" }}
-              ></img>
             </p>
           </div>
           <div>
